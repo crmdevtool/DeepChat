@@ -66,4 +66,3 @@ CARACTERÍSTICAS
 
                                                            By Adimael
                                                     (Desenvolvedor freelancer)
-            
