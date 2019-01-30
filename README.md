@@ -9,7 +9,7 @@ CARACTERÍSTICAS
 
   ---> LOGIN, REGISTRAR
   
-> Registar Nova Conta
+> Registrar Nova Conta
 
 > Login com conta existente
 
