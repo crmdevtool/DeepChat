@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/settings" android:title="Perfil"></item>
+    <item android:id="@+id/allUsers" android:title="Todos os usuários"></item>
+    <item android:id="@+id/logout" android:title="Deslogar"></item>
+</menu>

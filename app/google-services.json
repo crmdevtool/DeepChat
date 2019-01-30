@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "562249739087",
+    "firebase_url": "https://deepchat-db.firebaseio.com",
+    "project_id": "deepchat-db",
+    "storage_bucket": "deepchat-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562249739087:android:e7cfa2e4041a6867",
+        "android_client_info": {
+          "package_name": "com.example.singhkshitiz.letschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562249739087-r58jsbupsu36eou78789fs5efid3qr96.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.deepchat.app",
+            "certificate_hash": "e53b426fad4006227bf5dc04d05b72f47eaa0957"
+          }
+        },
+        {
+          "client_id": "562249739087-ie2h1pidgkrod46p61pjenkm7b6tvjs3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCudEaD12e3Yu0x88KFhsj2NMcA2t1d-jM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562249739087-ie2h1pidgkrod46p61pjenkm7b6tvjs3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

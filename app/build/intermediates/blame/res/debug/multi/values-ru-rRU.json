@@ -1,0 +1,140 @@
+[
+    {
+        "outputFile": "C:\\Users\\Adimael\\AndroidStudioProjects\\DeepChat\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ru-rRU\\values-ru-rRU.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\Adimael\\.android\\build-cache\\6202526323ddae7e526ecfac19f90ee5bfecad07\\output\\res\\values-ru-rRU\\values-ru-rRU.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 57,
+                    "endOffset": 166
+                },
+                "from": {
+                    "file": "C:\\Users\\Adimael\\.android\\build-cache\\6202526323ddae7e526ecfac19f90ee5bfecad07\\output\\res\\values-ru-rRU\\values-ru-rRU.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 57,
+                        "endOffset": 166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 171,
+                    "endColumn": 85,
+                    "endOffset": 252
+                },
+                "from": {
+                    "file": "C:\\Users\\Adimael\\.android\\build-cache\\6202526323ddae7e526ecfac19f90ee5bfecad07\\output\\res\\values-ru-rRU\\values-ru-rRU.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 171,
+                        "endColumn": 85,
+                        "endOffset": 252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 257,
+                    "endColumn": 81,
+                    "endOffset": 334
+                },
+                "from": {
+                    "file": "C:\\Users\\Adimael\\.android\\build-cache\\6202526323ddae7e526ecfac19f90ee5bfecad07\\output\\res\\values-ru-rRU\\values-ru-rRU.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 257,
+                        "endColumn": 81,
+                        "endOffset": 334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 339,
+                    "endColumn": 72,
+                    "endOffset": 407
+                },
+                "from": {
+                    "file": "C:\\Users\\Adimael\\.android\\build-cache\\6202526323ddae7e526ecfac19f90ee5bfecad07\\output\\res\\values-ru-rRU\\values-ru-rRU.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 339,
+                        "endColumn": 72,
+                        "endOffset": 407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 412,
+                    "endColumn": 74,
+                    "endOffset": 482
+                },
+                "from": {
+                    "file": "C:\\Users\\Adimael\\.android\\build-cache\\6202526323ddae7e526ecfac19f90ee5bfecad07\\output\\res\\values-ru-rRU\\values-ru-rRU.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 412,
+                        "endColumn": 74,
+                        "endOffset": 482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 487,
+                    "endColumn": 76,
+                    "endOffset": 559
+                },
+                "from": {
+                    "file": "C:\\Users\\Adimael\\.android\\build-cache\\6202526323ddae7e526ecfac19f90ee5bfecad07\\output\\res\\values-ru-rRU\\values-ru-rRU.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 487,
+                        "endColumn": 76,
+                        "endOffset": 559
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Adimael\\AndroidStudioProjects\\DeepChat\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\password.png",
+        "source": "C:\\Users\\Adimael\\AndroidStudioProjects\\DeepChat\\app\\src\\main\\res\\drawable-xhdpi\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\Adimael\\AndroidStudioProjects\\DeepChat\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Adimael\\AndroidStudioProjects\\DeepChat\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Adimael\\AndroidStudioProjects\\DeepChat\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\email.png",
+        "source": "C:\\Users\\Adimael\\AndroidStudioProjects\\DeepChat\\app\\src\\main\\res\\drawable-xhdpi\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\Adimael\\AndroidStudioProjects\\DeepChat\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\username.png",
+        "source": "C:\\Users\\Adimael\\AndroidStudioProjects\\DeepChat\\app\\src\\main\\res\\drawable-xhdpi\\username.png"
+    }
+]
