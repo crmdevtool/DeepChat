@@ -1,5 +1,5 @@
 # DeepChat
-
+[![GitHub license](https://raw.githubusercontent.com/adimael/DeepChat/master/LICENSE)
 <img src="Screenshots/Screenshot_20190130-115130.jpeg" width="200"> <img src="Screenshots/Screenshot_20190130-115147.jpeg" width="200"> <img src="Screenshots/Screenshot_20190130-115222.jpeg" width="200"> <img src="Screenshots/Screenshot_20190130-115509.jpeg" width="200">
 __________________________________________________________________________________________________________________
                                                DeepChat App de Bate-Papo
@@ -66,3 +66,5 @@ CARACTERÍSTICAS
 
                                                            By Adimael
                                                     (Desenvolvedor freelancer)
+                                                    Copyright and License
+Copyright (c) 2019 Adimael BR. Code released under the MIT license.
