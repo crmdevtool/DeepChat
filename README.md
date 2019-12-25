@@ -66,4 +66,4 @@ CARACTERÍSTICAS
                                                            By Adimael
                                                     (Desenvolvedor freelancer)
                                                     Copyright and License
-Copyright (c) 2019 Adimael BR. Code released under the MIT license.
+Copyright (c) 2019 Adimael BR. Code released under the MIT license.[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/adimael/DeepChat/master/LICENSE)
